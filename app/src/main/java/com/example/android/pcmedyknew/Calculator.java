@@ -13,8 +13,6 @@ import android.widget.TextView;
 
     public class Calculator extends AppCompatActivity {
 
-        private static String TAG = Calculator.class.getSimpleName();
-
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
